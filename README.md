@@ -6,4 +6,4 @@ The project is located in the `AnnotationApp` folder. It showcases how to load a
 
 ## Building the app
 
-Install the required .NET MAUI workload and restore NuGet packages. Then open the solution in Visual Studio or run `dotnet build`.
+Install the required .NET MAUI workload for .NET 9 and restore NuGet packages. Then open the solution in Visual Studio or run `dotnet build`.
