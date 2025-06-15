@@ -1,0 +1,9 @@
+namespace AnnotationApp;
+
+public partial class MainPage : ContentPage
+{
+    public MainPage()
+    {
+        InitializeComponent();
+    }
+}
